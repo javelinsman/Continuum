@@ -6,7 +6,7 @@ Continuum visualizes **estimated trends of workload** of **heterogeneous, hierar
 * It can be added on any kind of spreadsheet
   * currently works only for Google Spreadsheet
 
-![continuum prototype](https://media.giphy.com/media/dgKbAYwOpT6dl7UYNi/giphy.gif)
+![continuum prototype](https://user-images.githubusercontent.com/6987894/72785495-b8a34b80-3c6e-11ea-8417-3c05deb7f8c7.png)
 
 # Usage
 
